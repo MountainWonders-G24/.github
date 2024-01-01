@@ -6,11 +6,11 @@ Team composto da
 - Giorgia Saccon
 - Davide Paolazzi
 
-#### Design👩🏻‍🎨:
+#### Design:
 ![SPdesign](https://skillicons.dev/icons?i=figma)
-#### Development👨🏻‍💻:
+#### Development:
 ![SPDev](https://skillicons.dev/icons?i=nextjs,nodejs)
-#### Tools🛠️:
+#### Tools:
 ![SPtools](https://skillicons.dev/icons?i=vscode,git)
-#### Database💾:
+#### Database:
 ![SPDB](https://skillicons.dev/icons?i=mongodb)
