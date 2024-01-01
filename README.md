@@ -13,7 +13,9 @@ Team composto da
 ![SPDev](https://skillicons.dev/icons?i=nextjs,nodejs,react)
 #### Test:
 ![SPTest](https://skillicons.dev/icons?i=jest)
+#### Deployment:
+![SPTest](https://skillicons.dev/icons?i=vercel)
 #### Database:
 ![SPDB](https://skillicons.dev/icons?i=mongodb)
 #### Tools:
-![SPtools](https://skillicons.dev/icons?i=vscode,git,github,regex,vercel)
+![SPtools](https://skillicons.dev/icons?i=vscode,git,github,regex)
