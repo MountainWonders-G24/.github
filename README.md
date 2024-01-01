@@ -16,4 +16,4 @@ Team composto da
 #### Database:
 ![SPDB](https://skillicons.dev/icons?i=mongodb)
 #### Tools:
-![SPtools](https://skillicons.dev/icons?i=vscode,git,github,regex,vercel)
+![SPtools](https://skillicons.dev/icons?i=vscode,git,github,regex)
