@@ -11,6 +11,8 @@ Team composto da
 ![SPdesign](https://skillicons.dev/icons?i=figma)
 #### Development:
 ![SPDev](https://skillicons.dev/icons?i=nextjs,nodejs)
+#### Test:
+![SPTest](https://skillicons.dev/icors?i=jest)
 #### Tools:
 ![SPtools](https://skillicons.dev/icons?i=vscode,git,github)
 #### Database:
