@@ -11,6 +11,6 @@ Team composto da
 #### Development:
 ![SPDev](https://skillicons.dev/icons?i=nextjs,nodejs)
 #### Tools:
-![SPtools](https://skillicons.dev/icons?i=vscode,git,github,drawio)
+![SPtools](https://skillicons.dev/icons?i=vscode,git,github,draw)
 #### Database:
 ![SPDB](https://skillicons.dev/icons?i=mongodb)
