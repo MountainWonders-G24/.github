@@ -12,7 +12,7 @@ Team composto da
 #### Development:
 ![SPDev](https://skillicons.dev/icons?i=nextjs,nodejs)
 #### Test:
-![SPTest](https://skillicons.dev/icors?i=jest)
+![SPTest](https://skillicons.dev/icons?i=jest)
 #### Tools:
 ![SPtools](https://skillicons.dev/icons?i=vscode,git,github)
 #### Database:
