@@ -10,7 +10,7 @@ Team composto da
 #### Design:
 ![SPdesign](https://skillicons.dev/icons?i=figma)
 #### Development:
-![SPDev](https://skillicons.dev/icons?i=nextjs,nodejs)
+![SPDev](https://skillicons.dev/icons?i=nextjs,nodejs,react)
 #### Test:
 ![SPTest](https://skillicons.dev/icons?i=jest)
 #### Database:
