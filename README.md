@@ -15,7 +15,5 @@ Team composto da
 ![SPTest](https://skillicons.dev/icons?i=jest)
 #### Database:
 ![SPDB](https://skillicons.dev/icons?i=mongodb)
-#### Documentation:
-![SPDocumentation](https://skillicons.dev/icons?i=overleaf)
 #### Tools:
 ![SPtools](https://skillicons.dev/icons?i=vscode,git,github)
