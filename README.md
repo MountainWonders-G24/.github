@@ -7,6 +7,8 @@ Team composto da
 - Giorgia Saccon
 - Davide Paolazzi
 
+Voto finale: 29
+
 #### Design:
 ![SPdesign](https://skillicons.dev/icons?i=figma)
 #### Development:
